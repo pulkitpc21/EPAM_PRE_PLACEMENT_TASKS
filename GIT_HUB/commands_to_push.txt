@@ -1,0 +1,12 @@
+#TASK - PUSHING FILES REGARDING EMAIL AUTOMATION
+
+ls
+cd
+git init
+git remote add origin <gitLink_https>
+git remote -v
+git add .
+git commit -m "First Commit"
+git push origin master
+
+git help
